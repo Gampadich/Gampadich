@@ -16,6 +16,3 @@ I'm a Frontend Developer passionate about building **interactive web application
 | **[Trello Clone](https://github.com/Gampadich/trello)** | `React`, `TypeScript` | Full-featured Kanban board with drag-and-drop & strict typing. |
 | **[AI Cleaner](https://github.com/Gampadich/AI-cleaner)** | `JavaScript`, `Automation` | Smart script for automated chat & email cleanup. |
 
----
-⭐️ *Stats:*
-![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gampadich&show_icons=true&theme=radical)
