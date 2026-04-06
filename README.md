@@ -1,18 +1,37 @@
-### Hi there, I'm Roman! 👋
+# Hi there, I'm Roman! 👋
 
-I'm a Frontend Developer passionate about building **interactive web applications**, **simulation tools**, and **automation scripts**.
+### 🐍 Automation Engineer & Web Scraping Specialist
 
-- 🔭 I’m currently working on **Cyber Truck Telemetry** (Real-time dashboard for ETS2)
-- 🏎️ I build custom hardware & software integration for Sim-Racing
-- 🛠️ Tech Stack: **React, TypeScript, JavaScript (ES6+), Canvas API**
-- 📫 How to reach me: [diachenkors@gmail.com](mailto:diachenkors@gmail.com)
+I am a passionate developer focused on building high-performance automation tools and data extraction systems. Currently, I specialize in **Python** and **Playwright**, transforming complex web data into structured business insights.
 
 ---
 
-### 🚀 My Top Projects:
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **[Cyber Truck Telemetry](https://github.com/Gampadich/cyber-truck-telemetry)** | `TypeScript`, `WebSockets` | Real-time vehicle telemetry dashboard for Euro Truck Simulator 2. |
-| **[Trello Clone](https://github.com/Gampadich/trello)** | `React`, `TypeScript` | Full-featured Kanban board with drag-and-drop & strict typing. |
-| **[AI Cleaner](https://github.com/Gampadich/AI-cleaner)** | `JavaScript`, `Automation` | Smart script for automated chat & email cleanup. |
+### 🛠 What I’m doing right now:
+- **Advanced Web Scraping**: Developing a scalable OOP-based framework for real estate and automotive markets (Otodom, AutoRia, DomRia).
+- **Market Analysis**: Building tools that process 3500+ listings in minutes, handling dynamic content and anti-bot systems.
+- **Stealth Automation**: Implementing advanced techniques to bypass detection using Playwright and custom browser configurations.
 
+### 📜 My Technical Journey:
+Before diving deep into Python and Automation, I spent significant time in **Frontend Development**. 
+- I have experience with **React, TypeScript, and JavaScript**.
+- While I’ve shifted my focus away from UI/UX to backend logic and automation, my frontend background gives me a "superpower" in understanding complex web architectures and DOM structures.
+
+---
+
+### 🧰 Tech Stack:
+- **Languages**: Python, JavaScript, TypeScript
+- **Automation**: Playwright, Automa, Selenium
+- **Data**: Openpyxl, Pandas, JSON/CSV
+- **Tools**: PyCharm, Git, GitHub, Figma
+
+### 🚀 Goal:
+Preparing for technical studies in Poland while building a professional portfolio of automation solutions. 
+
+---
+
+### 📈 My Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gampadich&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gampadich&layout=compact&theme=radical)
+
+---
+*“Moving from building interfaces to building the logic that powers data.”*
