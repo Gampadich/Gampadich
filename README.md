@@ -28,10 +28,4 @@ Before diving deep into Python and Automation, I spent significant time in **Fro
 Preparing for technical studies in Poland while building a professional portfolio of automation solutions. 
 
 ---
-
-###  My Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gampadich&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gampadich&layout=compact&theme=radical)
-
----
 *“Moving from building interfaces to building the logic that powers data.”*
